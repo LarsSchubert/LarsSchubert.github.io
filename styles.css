@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; 
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #FF00FF;
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 1.1em;
+    color: #2AAA8A; 
+    margin: 10px 0; 
+}
+
+a {
+    color: #3498db; 
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styling for headings */
+h2 {
+    color: #FF00FF; 
+    margin-top: 20px; 
+    font-size: 1.5em; 
+}
+
+strong {
+    display: block; 
+    margin-top: 10px; 
+    font-weight: bold; 
+}
